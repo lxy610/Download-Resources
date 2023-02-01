@@ -3,7 +3,7 @@ This is what I want to share with video viewers on bilibili.com.
 
 包含我的一些分享 因为百度云盘链接容易失效
 
-选择右侧的资源
+选择右侧的releases
 
 ![image](https://user-images.githubusercontent.com/88926202/215948076-83967141-2566-4adc-92eb-255d3f8d40ef.png)
 
