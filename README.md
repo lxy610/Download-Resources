@@ -1,8 +1,6 @@
 # bilibili
-This is what I want to share with video viewers on bilibili.com.
 
 包含我的一些分享 因为百度云盘链接容易失效
-
 
 # 目录
 # 1. OpenCV3.4.1
